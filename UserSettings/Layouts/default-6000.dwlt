@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1351
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 27
+  controlID: 119
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -1301,7 +1301,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -200.18901, y: -80.95154, z: 301.5438}
     speed: 2
-    m_Value: {x: -200.18901, y: -80.95154, z: 301.5438}
+    m_Value: {x: -2.277, y: -0.232, z: -8.478}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1349,11 +1349,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.10464803, y: -0.2799053, z: 0.03157373, w: 0.95403224}
     speed: 2
-    m_Value: {x: -0.10464803, y: 0.2799053, z: -0.03157373, w: -0.95403224}
+    m_Value: {x: 0.10462331, y: -0.27983916, z: 0.031566273, w: 0.9538069}
   m_Size:
     m_Target: 191.62248
     speed: 2
-    m_Value: 191.62248
+    m_Value: 0.51961535
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1524,11 +1524,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 61564
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -47808
       - m_Data: -46214
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1604,7 +1604,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Cannon Mini Pack
+    - Assets/Cannon Mini Pack/Textures
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1614,7 +1614,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Cannon Mini Pack
+  - Assets/Cannon Mini Pack/Textures
   m_LastFoldersGridSize: 16
   m_LastProjectPath: S:\UNITY\UNITY BACKUP\Simulators_Cannon
   m_LockTracker:
@@ -1623,12 +1623,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 61564
+    - m_Data: 61578
     m_LastClickedID:
-      m_Data: 61564
+      m_Data: 61578
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 61560
+    - m_Data: 61562
+    - m_Data: 61564
+    - m_Data: 61598
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1686,15 +1689,14 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 61564
-    m_LastClickedInstanceID: 61564
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Cannon Projectile
+      m_OriginalName: Cannon Projectile
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1702,10 +1704,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 0
+        m_Data: 61736
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}

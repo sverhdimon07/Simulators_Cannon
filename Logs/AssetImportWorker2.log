@@ -1,11 +1,11 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.3/staging' branch; Version is '6000.3.9f1 (7a9955a4f2fa) revision 8034645'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дмитрий" at "2026-03-04T22:13:35.549308Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дмитрий" at "2026-03-04T22:20:49.4077933Z"
 OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'ru' Physical Memory: 16318 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
 System  architecture: x64
 Process architecture: x64
-Date: 2026-03-04T22:13:35Z
+Date: 2026-03-04T22:20:49Z
 
 COMMAND LINE ARGUMENTS:
 S:\UNITY\Unity Editor Versions\6000.3.9f1\Editor\Unity.exe
@@ -19,7 +19,7 @@ S:/UNITY/UNITY BACKUP/Simulators_Cannon
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-56713
+56923
 -licensingIpc
 LicenseClient-Дмитрий
 -job-worker-count
@@ -67,12 +67,12 @@ S:/UNITY/UNITY BACKUP/Simulators_Cannon
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
     "memorysetup-temp-allocator-size-cloud-worker=32768"
-Player connection [23420]  Target information:
+Player connection [26096]  Target information:
 
-Player connection [23420]  * "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 2648312605 [EditorId] 2648312605 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KK1P2OH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [26096]  * "[IP] 192.168.1.39 [Port] 0 [Flags] 2 [Guid] 2947045145 [EditorId] 2947045145 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KK1P2OH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [23420] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [23420] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [26096] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [26096] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -84,7 +84,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.85 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.3.9f1 (7a9955a4f2fa)
 [Subsystems] Discovering subsystems at path S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/Resources/UnitySubsystems
@@ -100,21 +100,21 @@ Initialize mono
 Mono path[0] = 'S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/Managed'
 Mono path[1] = 'S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 [Licensing::Module] Licensing is not yet initialized.
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.17.4+4293ba1
-  Session Id:              05a616ce08ea414bb8732c6ab724af5a
+  Session Id:              006dff5249bf478481dd409963e92833
   Correlation Id:          97f5be5e92d4ead2cb0ad9491ab54804
-  External correlation Id: 3413309286274304963
+  External correlation Id: 2076037856722492051
   Machine Id:              BSinU4MsdP07HGNxKH7k4gB1okk=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Дмитрий" (connect: 0.00s, validation: 0.00s, handshake: 2.82s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дмитрий-notifications" at "2026-03-04T22:13:38.3708028Z"
-[Licensing::Module] Licensing Background thread has ended after 2.82s
-[Licensing::Module] Licensing is initialized (took 0.78s).
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Дмитрий" (connect: 0.00s, validation: 0.00s, handshake: 2.78s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дмитрий-notifications" at "2026-03-04T22:20:52.1937836Z"
+[Licensing::Module] Licensing Background thread has ended after 2.79s
+[Licensing::Module] Licensing is initialized (took 0.82s).
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
   Id: 10170697332008-UnityPersXXXX
@@ -122,41 +122,41 @@ Register platform support module: S:/UNITY/Unity Editor Versions/6000.3.9f1/Edit
   Type: Assigned
   Expiration: Unlimited
 Register platform support module: S:/UNITY/Unity Editor Versions/6000.3.9f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.787701 seconds.
-- Loaded All Assemblies, in  1.701 seconds
+Registered in 0.831886 seconds.
+- Loaded All Assemblies, in  1.756 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.837 seconds
-Domain Reload Profiling: 2537ms
-	BeginReloadAssembly (361ms)
+- Finished resetting the current domain, in  0.834 seconds
+Domain Reload Profiling: 2588ms
+	BeginReloadAssembly (359ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (82ms)
-	RebuildNativeTypeToScriptingClass (28ms)
-	initialDomainReloadingComplete (868ms)
-	LoadAllAssembliesAndSetupDomain (360ms)
-		LoadAssemblies (359ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (92ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (915ms)
+	LoadAllAssembliesAndSetupDomain (351ms)
+		LoadAssemblies (357ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (353ms)
-			TypeCache.Refresh (350ms)
-				TypeCache.ScanAssembly (324ms)
+		AnalyzeDomain (344ms)
+			TypeCache.Refresh (341ms)
+				TypeCache.ScanAssembly (316ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (838ms)
+	FinalizeReload (834ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (748ms)
+		SetupLoadedEditorAssemblies (742ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (90ms)
-			SetLoadedEditorAssemblies (7ms)
-			BeforeProcessingInitializeOnLoad (182ms)
-			ProcessInitializeOnLoadAttributes (327ms)
-			ProcessInitializeOnLoadMethodAttributes (142ms)
+			InitializePlatformSupportModulesInManaged (93ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (170ms)
+			ProcessInitializeOnLoadAttributes (324ms)
+			ProcessInitializeOnLoadMethodAttributes (148ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -166,8 +166,8 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 [Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  1.719 seconds
-Refreshing native plugins compatible for Editor in 2.14 ms, found 3 plugins.
+- Loaded All Assemblies, in  1.624 seconds
+Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
@@ -176,196 +176,260 @@ Package Manager log level set to [2]
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.604 seconds
-Domain Reload Profiling: 3321ms
-	BeginReloadAssembly (444ms)
+- Finished resetting the current domain, in  1.461 seconds
+Domain Reload Profiling: 3083ms
+	BeginReloadAssembly (415ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (13ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (66ms)
-	RebuildCommonClasses (80ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (83ms)
 	RebuildNativeTypeToScriptingClass (27ms)
-	initialDomainReloadingComplete (66ms)
-	LoadAllAssembliesAndSetupDomain (1100ms)
-		LoadAssemblies (797ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (1021ms)
+		LoadAssemblies (759ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (572ms)
-			TypeCache.Refresh (415ms)
-				TypeCache.ScanAssembly (384ms)
-			BuildScriptInfoCaches (128ms)
+		AnalyzeDomain (521ms)
+			TypeCache.Refresh (367ms)
+				TypeCache.ScanAssembly (339ms)
+			BuildScriptInfoCaches (126ms)
 			ResolveRequiredComponents (23ms)
-	FinalizeReload (1605ms)
+	FinalizeReload (1462ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1094ms)
+		SetupLoadedEditorAssemblies (1059ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (3ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (275ms)
-			ProcessInitializeOnLoadAttributes (677ms)
-			ProcessInitializeOnLoadMethodAttributes (122ms)
-			AfterProcessingInitializeOnLoad (10ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (263ms)
+			ProcessInitializeOnLoadAttributes (659ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
+			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (16ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (14ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6193 unused Assets / (4.3 MB). Loaded Objects now: 7006.
-Memory consumption went from 145.0 MB to 140.7 MB.
-Total: 18.362200 ms (FindLiveObjects: 1.264100 ms CreateObjectMapping: 1.926100 ms MarkObjects: 9.748600 ms  DeleteObjects: 5.421300 ms)
+Unloading 6193 unused Assets / (3.8 MB). Loaded Objects now: 7006.
+Memory consumption went from 145.1 MB to 141.2 MB.
+Total: 14.582300 ms (FindLiveObjects: 1.107900 ms CreateObjectMapping: 0.778900 ms MarkObjects: 8.863700 ms  DeleteObjects: 3.829400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17491.773732 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '640ed07d50db77437f87ed54e021e9cb') in 0.1589716 seconds
+  Time since last request: 17925.347472 seconds.
+  path: Assets/Cannon Mini Pack/Textures/Small_Cannon_N.tga
+  artifactKey: Guid(51c47d78aed24e847b2f512e5adf0832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cannon Mini Pack/Textures/Small_Cannon_N.tga using Guid(51c47d78aed24e847b2f512e5adf0832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b8f61feb635f197ea03bae5d6d3d75d') in 0.1288788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Cannon Mini Pack/Textures/Small_Cannon_Mtl.tga
+  artifactKey: Guid(e03a1ac1ce29d99429c3863e61bf235b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Cannon Mini Pack/Textures/Small_Cannon_Mtl.tga using Guid(e03a1ac1ce29d99429c3863e61bf235b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3534a29682fc4ab6f46812a956d5158a') in 0.4825571 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/!GameFiles/Scripts/Cannon/CannonProjectile.cs
-  artifactKey: Guid(22f4a7b8625e33246965aa3c961b6b0d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/!GameFiles/Scripts/Cannon/CannonProjectile.cs using Guid(22f4a7b8625e33246965aa3c961b6b0d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'df1ef8fcfa516e5137c5cb32283d227c') in 0.0183964 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+  Time since last request: 0.000040 seconds.
+  path: Assets/!GameFiles/Prefabs/Cannon/Cannon.prefab
+  artifactKey: Guid(d3fea23d67b3dc5419d2ee38992e3b40) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!GameFiles/Prefabs/Cannon/Cannon.prefab using Guid(d3fea23d67b3dc5419d2ee38992e3b40) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '24c9119939f4e8601579dba325c8e88b') in 0.0649198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 56
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
-  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ddbec7c631895701aca5c86c28b1ad51') in 0.0080824 seconds
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fd9fa59f14e3d289b85c1fc76893e82c') in 0.0168957 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/InputSystem_Actions.inputactions
-  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '718377b16998bd7c22018f668cea36db') in 0.3084554 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Cannon Mini Pack/Textures/Projectiles_Tools_N.tga
-  artifactKey: Guid(07efc0ccc20a90d4fbebb4351ad428fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Cannon Mini Pack/Textures/Projectiles_Tools_N.tga using Guid(07efc0ccc20a90d4fbebb4351ad428fb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f604ab5ab2559b9829a414ada0576ae4') in 0.1014946 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
-  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c9ec46e61f079707ca17e4fabe0450c7') in 0.0367585 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000022 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
-  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '67ebfe4fbd4cfe8a4511207bb1099fed') in 0.0113157 seconds
+  path: Assets/Cannon Mini Pack/Meshes/Bomb_Shot.FBX
+  artifactKey: Guid(0ac6d94baf1e9eb4eb2fe19e4fa53103) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Cannon Mini Pack/Meshes/Bomb_Shot.FBX using Guid(0ac6d94baf1e9eb4eb2fe19e4fa53103) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b70aba14e25dfa3a56717d37ef6998a7') in 0.0810241 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3dc138ab0fc23849ddbe6d64bd2f13ef') in 0.0066822 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000020 seconds.
-  path: Assets/!GameFiles/Scripts/Cannon/CannonTargetHitScoringUI.cs
-  artifactKey: Guid(c85d6116ece29b54fb01b592b32695ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/!GameFiles/Scripts/Cannon/CannonTargetHitScoringUI.cs using Guid(c85d6116ece29b54fb01b592b32695ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8550398248c9a366f02cea8933d077d2') in 0.0068818 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
-  artifactKey: Guid(1e3b057af24249748ff873be7fafee47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader using Guid(1e3b057af24249748ff873be7fafee47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '52f2a0ca838be1865e09cfc8ec83fff2') in 0.0091745 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
-  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'eb0d8fa2ed17275caed06bc5c8d66876') in 0.0078378 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/!GameFiles/Scripts/Cannon/CannonTarget.cs
-  artifactKey: Guid(58136e805bec74d4c927b1faa59f0ac4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/!GameFiles/Scripts/Cannon/CannonTarget.cs using Guid(58136e805bec74d4c927b1faa59f0ac4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '10154a7cbb1697ca2e9d3892cfb0111b') in 0.0068281 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
-  artifactKey: Guid(c334973cef89a9840b0b0c507e0377ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc using Guid(c334973cef89a9840b0b0c507e0377ab) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '38fc39e44c8879ece528a0d46a6d4989') in 0.006887 seconds
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f26db88358beca87b94613688a2fb1b8') in 0.0083288 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000022 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
-  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1f18d47a178c29274a1f3f488f7e514f') in 0.0097933 seconds
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a877d719f09856e0e96373f9b13cec32') in 0.0078628 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
-  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '44902514af121e4795c487f1b288492c') in 0.0110672 seconds
+  Time since last request: 0.000026 seconds.
+  path: Assets/!GameFiles/Scripts/Cannon/CannonMovement.cs
+  artifactKey: Guid(ca11ae941efff8649972d8bfa665400a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!GameFiles/Scripts/Cannon/CannonMovement.cs using Guid(ca11ae941efff8649972d8bfa665400a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6ca32c7f3bb5ef4e52b85e7958c4ad49') in 0.0082436 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Cannon Mini Pack/Textures/Small_Cannon_N.tga
+  artifactKey: Guid(51c47d78aed24e847b2f512e5adf0832) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Cannon Mini Pack/Textures/Small_Cannon_N.tga using Guid(51c47d78aed24e847b2f512e5adf0832) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c1e27ab09b7d7dc8aa7e1dc65c005b38') in 0.0171488 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Cannon Mini Pack/Materials/Small_Cannon.mat
-  artifactKey: Guid(7617667ec6948f74c8933fa66fbe6371) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Cannon Mini Pack/Materials/Small_Cannon.mat using Guid(7617667ec6948f74c8933fa66fbe6371) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0e0204ec227b13fc30cd7814429a9277') in 0.0573647 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+  Time since last request: 0.000046 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '27d9317210b0243ca58acfe784d0ec74') in 0.0076384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000024 seconds.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4648a0dff7fb847ff0dacf25553064d8') in 0.1203039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/!GameFiles/Scripts/Cannon/CannonShooting.cs
+  artifactKey: Guid(4a635a0da61abce43ad7ce7135f6a3a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/!GameFiles/Scripts/Cannon/CannonShooting.cs using Guid(4a635a0da61abce43ad7ce7135f6a3a0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd26660a54a27fb5f779c95eff157de26') in 0.008219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TutorialInfo/Scripts/Readme.cs
+  artifactKey: Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TutorialInfo/Scripts/Readme.cs using Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b19535b8d58c265d3396c4cc663666ad') in 0.0092194 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
   path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
   artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6b3cdeff9e32391fdf99db108031bfe1') in 0.0168256 seconds
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f128a6a0828fe841b61c32e98f2c7c39') in 0.0169967 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000037 seconds.
+  Time since last request: 0.000026 seconds.
   path: Assets/TextMesh Pro/Sprites/EmojiOne.json
   artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1a9b11e3eedea6729dcf75f7bc9080cb') in 0.0072872 seconds
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e9ae4087b629c84edb649023cbc277bf') in 0.0075876 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
+  Time since last request: 0.000025 seconds.
   path: Assets/Settings/PC_RPAsset.asset
   artifactKey: Guid(4b83569d67af61e458304325a23e5dfd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Settings/PC_RPAsset.asset using Guid(4b83569d67af61e458304325a23e5dfd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '450686ccaa37eed82eb1334a5490a1ee') in 0.0728786 seconds
+Start importing Assets/Settings/PC_RPAsset.asset using Guid(4b83569d67af61e458304325a23e5dfd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1aa80559e35b34a9ff9f40a3c83032ad') in 0.069855 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'df910edf5363c9ba7e0503ccb3cb29f8') in 0.0084131 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bea21fcd92be80b7e22b2bec2ac0e1f2') in 0.0416872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.331665 seconds.
+  path: Assets/!GameFiles/Scenes
+  artifactKey: Guid(9c53962885c2c4f449125a979d6ad240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Scenes using Guid(9c53962885c2c4f449125a979d6ad240) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd65b75f456837a3494a5e6e744543932') in 0.0006841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.453278 seconds.
+  path: Assets/!GameFiles/Scenes/CannonTest.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Scenes/CannonTest.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f26a76a3821f265d5ca72289fab58e18') in 0.0008204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.041073 seconds.
+  path: Assets/!GameFiles/Prefabs/Cannon/Cannon.prefab
+  artifactKey: Guid(d3fea23d67b3dc5419d2ee38992e3b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Prefabs/Cannon/Cannon.prefab using Guid(d3fea23d67b3dc5419d2ee38992e3b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '794e53e010a052835feb3273b1e1ad41') in 5.5746066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 68
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.787999 seconds.
+  path: Assets/Cannon Mini Pack/Meshes/Bomb_Shot.FBX
+  artifactKey: Guid(0ac6d94baf1e9eb4eb2fe19e4fa53103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cannon Mini Pack/Meshes/Bomb_Shot.FBX using Guid(0ac6d94baf1e9eb4eb2fe19e4fa53103) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d3771a984bf9f96044f9beba5235985') in 4.5358456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Cannon Mini Pack/Meshes/Round_shot.FBX
+  artifactKey: Guid(a2c7420a8cc01ca41825c370d1ffedb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cannon Mini Pack/Meshes/Round_shot.FBX using Guid(a2c7420a8cc01ca41825c370d1ffedb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b26b7777da7bfb5f84b6af23cf9ce383') in 0.0177047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Cannon Mini Pack/Meshes/Small_Cannon.FBX
+  artifactKey: Guid(526bd618ece31164d9e98630aaefab89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cannon Mini Pack/Meshes/Small_Cannon.FBX using Guid(526bd618ece31164d9e98630aaefab89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b8811a0cd84736da72e7f76768417df') in 0.0686966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.265720 seconds.
+  path: Assets/!GameFiles/Prefabs/Cannon
+  artifactKey: Guid(4e967673cce487c4babf2439153d5cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Prefabs/Cannon using Guid(4e967673cce487c4babf2439153d5cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec4654721f435a4b5b0849fe2ded253f') in 0.000728 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.176106 seconds.
+  path: Assets/!GameFiles/Prefabs/Cannon/Cannon Target.prefab
+  artifactKey: Guid(97a89c093d1d32d48bc074e131e1e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Prefabs/Cannon/Cannon Target.prefab using Guid(97a89c093d1d32d48bc074e131e1e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aff95d87fd09aa7d6092d808bd307578') in 0.0130991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.649308 seconds.
+  path: Assets/!GameFiles/Prefabs/Cannon/Cannon Projectile.prefab
+  artifactKey: Guid(16ce76cbf207056499c9a784f8591aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/!GameFiles/Prefabs/Cannon/Cannon Projectile.prefab using Guid(16ce76cbf207056499c9a784f8591aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f61049fcb08948e3a39631e69e28360e') in 0.0224685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
 
