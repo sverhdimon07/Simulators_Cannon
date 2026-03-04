@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\assets\\!gamefiles\\scripts\\cannon\\interfaces\\cannoninterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\cannon\\interfaces\\cannoninterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\render types\\aircannonattacktrajectoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\render types\\aircannonattacktrajectoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\render types\\vacuumcannonattacktrajectoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\render types\\vacuumcannonattacktrajectoryrender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\cannonattacktrajectoryrendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD0A70-BF39-98C8-BB10-1B7001E9F4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\cannon\\attack trajectory render controller\\cannonattacktrajectoryrendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CannonInterfaces.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Interfaces\\CannonInterfaces.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Cannon\\Interfaces\\CannonInterfaces.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Interfaces\\CannonInterfaces.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Cannon\\Interfaces\\CannonInterfaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:11:43.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CannonAttackTrajectoryRenderController.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\CannonAttackTrajectoryRenderController.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\CannonAttackTrajectoryRenderController.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\CannonAttackTrajectoryRenderController.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\CannonAttackTrajectoryRenderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:09:04.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VacuumCannonAttackTrajectoryRender.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\VacuumCannonAttackTrajectoryRender.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\VacuumCannonAttackTrajectoryRender.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\VacuumCannonAttackTrajectoryRender.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\VacuumCannonAttackTrajectoryRender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:09:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirCannonAttackTrajectoryRender.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\AirCannonAttackTrajectoryRender.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\AirCannonAttackTrajectoryRender.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov\\Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\AirCannonAttackTrajectoryRender.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Cannon\\Attack Trajectory Render Controller\\Render Types\\AirCannonAttackTrajectoryRender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:09:21.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

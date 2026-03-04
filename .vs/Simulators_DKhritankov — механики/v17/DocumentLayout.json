@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|s:\\unity\\unity-backup\\simulators_dkhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|s:\\unity\\unity-backup\\simulators_dkhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planewingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planewingaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planeengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planeengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planetailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planetailaerodynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\assets\\!gamefiles\\scripts\\plane\\planenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B65474-DCED-96F3-C24A-76C557F87DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\!gamefiles\\scripts\\plane\\planenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaneP.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneP.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneP.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneP.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T21:43:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaneNew.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneNew.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneNew.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneNew.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T21:22:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaneHUD.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneHUD.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneHUD.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneHUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:21:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaneTailAerodynamics.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneTailAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneTailAerodynamics.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneTailAerodynamics.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneTailAerodynamics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:27:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaneWingAerodynamics.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneWingAerodynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneWingAerodynamics.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneWingAerodynamics.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneWingAerodynamics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:26:25.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaneEngine.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneEngine.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneEngine.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\PlaneEngine.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\PlaneEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:19:18.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\Plane.cs",
+              "RelativeDocumentMoniker": "Assets\\!GameFiles\\Scripts\\Plane\\Plane.cs",
+              "ToolTip": "S:\\UNITY\\Unity-BACKUP\\Simulators_DKhritankov \u2014 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\Assets\\!GameFiles\\Scripts\\Plane\\Plane.cs",
+              "RelativeToolTip": "Assets\\!GameFiles\\Scripts\\Plane\\Plane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:08:51.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
